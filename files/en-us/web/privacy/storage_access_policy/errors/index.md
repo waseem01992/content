@@ -1,4 +1,3 @@
----
 title: Errors
 slug: Web/Privacy/Storage_Access_Policy/Errors
 page-type: landing-page
